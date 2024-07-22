@@ -1,0 +1,16 @@
+
+.footer{
+    display: flex;
+    
+}
+.relative{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+    top: 515px;
+    left: 720px;
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+}

@@ -1,0 +1,28 @@
+.body{
+    padding: 1px;
+    height: 220px;
+    text-align: center;
+}
+.title{
+    color: #fff;
+    font-size: x-large;
+    margin-bottom: 20px;
+
+}
+.div__names{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+
+}
+.div__input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
